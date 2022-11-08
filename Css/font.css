@@ -1,0 +1,21 @@
+@font-face {
+    font-family:Chococooky ;
+    src: url(../Font/Chococooky.ttf);
+}
+
+p{
+    font-family: Chococooky;
+    color: c42b1c;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 1.3cm;
+}
+.flex-center-vertically {
+    width: 200px;
+    height: 100px;
+    position: relative;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    margin: -50px 0 0 -100px;
+  }
